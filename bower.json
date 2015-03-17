@@ -1,4 +1,6 @@
 {
   "name": "React-test",
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
 }
