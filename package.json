@@ -1,0 +1,16 @@
+{
+  "name": "React-test",
+  "author": "mi_abe",
+  "dependencies": {
+    "react": "^0.12.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.3.0",
+    "gulp": "^3.8.10",
+    "gulp-load-plugins": "^0.8.1",
+    "gulp-styledown": "0.0.2",
+    "gulp-webpack": "^1.1.2",
+    "jsx-loader": "^0.12.2",
+    "rimraf": "^2.2.8"
+  }
+}
